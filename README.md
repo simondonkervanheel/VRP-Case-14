@@ -10,14 +10,20 @@ Sections always appear in the same order, additional line breaks or spaces may b
 Entries in a line are separated by tabs
 
 General info
+
 Vehicle related costs 
+
 Tools (ID, Size, Cap., Cost)
-Coordinates(0=depot) (ID, X, Y) 
+
+Coordinates(0=depot) (ID, X, Y)
+
 Requests (ID, Loc., S.day, E.day, Stay, Tool, Qty)
+
 Distance Matrix(optional)
 
 ## solution structure
 `DATASET = VeRoLog solver challenge 2017
+
 NAME = testInstance`
 
 `MAX_NUMBER_OF_VEHICLES = 1
