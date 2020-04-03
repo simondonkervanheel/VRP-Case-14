@@ -12,4 +12,4 @@ Om je wijzigingen up te loaden:
 
 ## Validator
 Gebruik dit voor de validatior:
-`SolutionCVRPTWUI.py -i instance.txt -s solution.txt`
+`pyhton3 SolutionCVRPTWUI.py -i instance.txt -s solution.txt`
