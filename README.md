@@ -1,7 +1,7 @@
 # VRP-Case-14
 
 ## Git met terminal
-Clone command van deze map `git clone username@host:/path/to/repositor`.
+Clone command van deze map `git clone https://github.com/FallBosk/VRP-Case-14`.
 
 Voordat je begint met werken `git pull`.
 
